@@ -6,7 +6,7 @@
 ## Persönliche Daten
 - **Name:** T.B.
 - **Geboren:** 01.01.1998
-- **Geburtsort:** NewYork
+- **Geburtsort:** New York
 - **Familienstand:** ledig
 - **Staatangehörigkeit:** deutsch
 ## Schule
