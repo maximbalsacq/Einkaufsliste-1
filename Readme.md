@@ -1,10 +1,6 @@
 # Lebenslauf Tim
 
-## Profilbild
 
-![alt
-text](http://fb-fun.de/wp-content/uploads/2011/02/facebook-kein-Bild.jpg
-"Profilbild")
 # Das ist mein Lebenslauf
 
 ## Persönliche Daten
